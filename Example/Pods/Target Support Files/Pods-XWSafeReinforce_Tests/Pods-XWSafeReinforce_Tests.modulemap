@@ -1,0 +1,6 @@
+framework module Pods_XWSafeReinforce_Tests {
+  umbrella header "Pods-XWSafeReinforce_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

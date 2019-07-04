@@ -1,0 +1,6 @@
+framework module XWSafeReinforce {
+  umbrella header "XWSafeReinforce-umbrella.h"
+
+  export *
+  module * { export * }
+}

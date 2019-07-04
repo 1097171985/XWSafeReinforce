@@ -1,0 +1,16 @@
+PODS:
+  - XWSafeReinforce (0.1.0)
+
+DEPENDENCIES:
+  - XWSafeReinforce (from `../`)
+
+EXTERNAL SOURCES:
+  XWSafeReinforce:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XWSafeReinforce: 0732291a0f4c1f6ccac27a8ee33e67740639ee78
+
+PODFILE CHECKSUM: cf833a9e3a1c902e8cef18f07567ab3f2bbbf245
+
+COCOAPODS: 1.7.1
